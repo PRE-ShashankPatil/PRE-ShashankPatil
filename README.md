@@ -1,4 +1,4 @@
-- 👋 Hi, **ShashankPatil**
+- 👋 Hi, I am **ShashankPatil**
 - 👀 I’m interested in **Coding**
 - 🌱 I’m currently learning **New things**
 - 💞️ I’m looking to collaborate on **Angular**
